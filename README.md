@@ -1,4 +1,4 @@
-# smart_home_dashboard
+# Smart Home Dashboard
 
 - Syed Jaffar Raza Kazmi
 - 57375
